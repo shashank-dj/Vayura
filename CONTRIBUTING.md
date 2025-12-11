@@ -40,65 +40,65 @@ A project maintainer will review and provide feedback.
 
 A. AI / Machine Learning
 
-Climate hazard prediction models
+- Climate hazard prediction models
 
-Flood, cyclone, heatwave risk modeling
+- Flood, cyclone, heatwave risk modeling
 
-Financial loss estimation models
+- Financial loss estimation models
 
-LLM for adaptation recommendations
+- LLM for adaptation recommendations
 
-Climate finance proposal generator (RAG + templates)
+- Climate finance proposal generator (RAG + templates)
 
 B. Geospatial (GIS)
 
-Map layers (hazards, assets, vulnerability)
+- Map layers (hazards, assets, vulnerability)
 
-Satellite data preprocessing
+- Satellite data preprocessing
 
-Spatial analysis tools
+- Spatial analysis tools
 
-Flood inundation mapping
+- Flood inundation mapping
 
 C. Backend (FastAPI / Python)
-Microservices for risk → loss → adaptation
+- Microservices for risk → loss → adaptation
 
-Finance proposal generation API
+- Finance proposal generation API
 
-Data ingestion pipelines
+- Data ingestion pipelines
 
-Monitoring and logging features
+- Monitoring and logging features
 
-Authentication and multi-tenancy
+- Authentication and multi-tenancy
 
 D. Frontend (React / Next.js)
 
-Dashboard components
+- Dashboard components
 
-Map visualizations (Mapbox/Leaflet)
+- Map visualizations (Mapbox/Leaflet)
 
-Charts and analytics UI
+- Charts and analytics UI
 
-Donor transparency dashboard
+- Donor transparency dashboard
 
 E. Climate & Adaptation Research
 
-Curate adaptation measures
+- Curate adaptation measures
 
-Create vulnerability curves
+- Create vulnerability curves
 
-Document adaptation best practices
+- Document adaptation best practices
 
-Local context research (Pacific Islands)
+- Local context research (Pacific Islands)
 
 F. Climate Finance Research
-Funding eligibility guidelines
+- Funding eligibility guidelines
 
-Proposal structures for GCF, AF, UNDP
+- Proposal structures for GCF, AF, UNDP
 
-Adaptation indicators and KPIs
+- Adaptation indicators and KPIs
 
-Cost–benefit methodologies
+- Cost–benefit methodologies
 
 G. Documentation
 
