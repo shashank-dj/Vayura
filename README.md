@@ -1,7 +1,7 @@
-# Vayura
+# Vayura 
 Vayura: An AI platform that predicts climate risks, quantifies financial impacts, and guides cost-optimized adaptation for nations and enterprises.
-
 A Climate Adaptation Finance + Execution Platform
+
 
 Vayura is an AI-driven platform that:
 1. Predicts climate risks  
@@ -10,6 +10,11 @@ Vayura is an AI-driven platform that:
 
 For nations, cities, and large enterprises.
 
+"Vayura" is derived from:
+
+- Vayu → Sanskrit word meaning air, atmosphere, wind, climate.
+- Aura → Meaning intelligence, presence, influence surrounding something.
+  
 Unlike traditional climate risk platforms, Vayura bridges the full chain from climate science to climate money to climate action — enabling governments, enterprises, and vulnerable communities to secure adaptation funding and implement resilience projects.
 
 ---
