@@ -14,23 +14,19 @@ We welcome contributions from developers, climate scientists, GIS engineers, AI 
 Click “Fork” at the top-right corner of this page.
 
 ### Step 2: Clone your fork  
-```bash
-git clone https://github.com/<your-username>/vayura.git
+git clone https://github.com/shashank-dj/vayura.git
 
 ### Step 3: Create a feature branch
-```bash
 git checkout -b feature/your-feature-name
 
 ### Step 4: Make your changes
 Follow the coding guidelines described below
 
 ### Step 5: Commit your changes
-```bash
 git commit -m "Add: short description of your change"
 
 
 ### Step 6: Push your branch
-```bash
 git push origin feature/your-feature-name
 
 
