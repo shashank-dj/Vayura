@@ -102,41 +102,41 @@ F. Climate Finance Research
 
 G. Documentation
 
-Improve README
+- Improve README
 
-Write tutorials
+- Write tutorials
 
-Create architecture diagrams
+- Create architecture diagrams
 
-Write model explanations
+- Write model explanations
 
-Draft whitepapers
+- Draft whitepapers
 
 H. Community & Outreach
 
-Spread the project in climate-tech communities
+- Spread the project in climate-tech communities
 
-Contact researchers and universities
+- Contact researchers and universities
 
-Help onboard new contributors
+- Help onboard new contributors
 
 
 ## 3. Communication Channels
 
-GitHub Issues
+- GitHub Issues
 
-GitHub Discussions
+- GitHub Discussions
 
-shashankdj622@gmail.com
+- shashankdj622@gmail.com
 
 ## 4. Contributor Recognition
 
 All contributors will be:
 
-Listed in the Contributors section
+- Listed in the Contributors section
 
-Credited in documentation and whitepapers
+- Credited in documentation and whitepapers
 
-Included in COP31 showcase materials
+- Included in COP31 showcase materials
 
-Considered for extended roles as the project grows
+- Considered for extended roles as the project grows
