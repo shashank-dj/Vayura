@@ -9,7 +9,7 @@ We welcome contributions from developers, climate scientists, GIS engineers, AI 
 ---
 
 ## 1. How to Contribute
-
+```bash
 ### Step 1: Fork the repository  
 Click “Fork” at the top-right corner of this page.
 
@@ -38,7 +38,7 @@ git push origin feature/your-feature-name
 
 Go to the main repo → Pull Requests → “New Pull Request”.
 A project maintainer will review and provide feedback.
-
+``` 
 
 ## 2. Areas You Can Contribute To
 
